@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="title">Todos for TAS</h1>
+    <h1 class="title">Todos UI build with Tanzu Build Service</h1>
     <h1 class="email">{{userEmail}}</h1>
     <section class="todoapp">
       <div v-if="loading">
